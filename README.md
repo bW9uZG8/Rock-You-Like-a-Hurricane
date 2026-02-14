@@ -1,5 +1,5 @@
 # Rock-You-Like-a-Hurricane
-Writeup on CTF challenge "Rock You Like a Hurricane"
+Writeup on CTF challenge "Rock You Like a Hurricane" using the tools John the Ripper and pdf2john.
 
 _This is my first writeup to test how to use GitHub and make writeups!_
 
